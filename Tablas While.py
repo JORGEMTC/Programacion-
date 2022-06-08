@@ -2,7 +2,7 @@
 """
 Created on Wed Jun  8 14:53:28 2022
 
-@author: lab
+@author: Jorge Carrillo 
 """
 num1=1 #Contador
 n=int(input("Ingrese el numero de tablas: ")) #Ingreso de datos
