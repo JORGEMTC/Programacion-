@@ -5,7 +5,7 @@ Created on Wed Jun  8 13:58:28 2022
 @author: lab
 """
 for n in range (1,16): # Bucle con rango definido
-  print(f"La tabla de # {n}") #Impresiond de texto
+  print(f"La tabla de # {n}") #Impresion de texto
   suma=0 #Acumuladores
   par=0 #Acumuladores
   impar=0 #Acumuladores
