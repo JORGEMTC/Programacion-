@@ -3,11 +3,11 @@
 Created on Wed Jun  8 14:53:28 2022
 
 @author: Jorge Carrillo 
-"""
+ """
 num1=1 #Contador
 n=int(input("Ingrese el numero de tablas: ")) #Ingreso de datos
 while n<2 or n>100: #Bucle de Repeticion While
-       print("Error el numero debe ser mayor a 2 y menor a 100") #Validacion de Datos
+       print("Error el numero debe ser mayor a 2 y menor a 100") #Validacion de Datos 
        n=int(input("Ingrese el numero de tablas: ")) #Ingreso de datos 
 print("Continuemos") # Mensaje 
 while True: #Bucle While True
