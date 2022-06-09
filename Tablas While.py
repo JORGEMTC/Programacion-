@@ -5,13 +5,13 @@ Created on Wed Jun  8 14:53:28 2022
 @author: Jorge Carrillo 
  """
 num1=1 #Contador
-n=int(input("Ingrese el numero de tablas: ")) #Ingreso de datos
+n=int(input("Ingrese el numero de tablas que desea imprimir: ")) #Ingreso de datos
 while n<2 or n>100: #Bucle de Repeticion While
        print("Error el numero debe ser mayor a 2 y menor a 100") #Validacion de Datos 
-       n=int(input("Ingrese el numero de tablas: ")) #Ingreso de datos 
+       n=int(input("Ingrese el numero de tablas que desea impimir: ")) #Ingreso de datos 
 print("Continuemos") # Mensaje 
 while True: #Bucle While True
-    m=int(input("Ingrese hasta que numero multiplicar: ")) #Ingreso de datos
+    m=int(input("Ingrese hasta que numero va ha  multiplicar: ")) #Ingreso de datos
     if m<2: #Validacion de Datos con condicional if
         print("Error el numero debe ser mayor a 2") # Mensaje de Error
     if m>100: #Validacion de Datos con condiocnal if
