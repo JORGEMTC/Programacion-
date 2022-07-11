@@ -2,7 +2,7 @@
 """
 Created on Mon Jun 13 16:05:59 2022
 
-@author: Mateo
+16@author: Mateo
 """
 def divisores(): # Definicion de la funcion.
   n=int(input("Ingrese un numero: ")) # Ingreso de datos.
